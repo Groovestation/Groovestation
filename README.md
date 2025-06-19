@@ -47,8 +47,8 @@ For auto-generated code documentation, visit our code docs! There's some good gu
 ## LICENSE
 [![license-badge](https://shields.io/badge/license-CC--BY--NC--SA-lightgrey?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-All Goonstation contributions are licensed under [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/). See LICENSE for more details.
+All Groovestation contributions are licensed under [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/). See LICENSE for more details.
 
 Contributions made under the `tgui` folder are licensed under [MIT](https://choosealicense.com/licenses/mit/) unless otherwise specified.
 
-**Important:** This means that code from Goonstation cannot be ported to codebases such as /tg/station. If you wish to port a specific feature, you __*must*__ get the developer(s) to sublicense it to you under a license like AGPLv3. This also applies in the opposite direction for features ported from other codebases.
+**Important:** This means that code from Groovestation cannot be ported to codebases such as /tg/station. If you wish to port a specific feature, you __*must*__ get the developer(s) to sublicense it to you under a license like AGPLv3. This also applies in the opposite direction for features ported from other codebases.
